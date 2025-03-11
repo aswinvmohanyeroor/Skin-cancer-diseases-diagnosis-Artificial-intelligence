@@ -91,9 +91,10 @@ python visualize_results.py
 - **Test Loss:** 0.415
 
 **Training & Validation Metrics:**
-check the document file 
+- check the document file
+  
 **Confusion Matrix:**
-check the document file
+- check the document file
 
 ---
 
