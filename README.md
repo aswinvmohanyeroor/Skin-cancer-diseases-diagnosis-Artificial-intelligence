@@ -91,10 +91,9 @@ python visualize_results.py
 - **Test Loss:** 0.415
 
 **Training & Validation Metrics:**
-![Training Metrics](images/training_metrics.png)
-
+check the document file 
 **Confusion Matrix:**
-![Confusion Matrix](images/confusion_matrix.png)
+check the document file
 
 ---
 
