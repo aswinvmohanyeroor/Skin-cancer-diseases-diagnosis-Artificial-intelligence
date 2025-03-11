@@ -39,7 +39,8 @@ pip install numpy pandas tensorflow keras scikit-learn matplotlib seaborn opencv
 Download the HAM10000 dataset and place it in the appropriate directory.
 - [HAM10000 Dataset](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 
----
+
+
 
 ## 4. Usage
 ### **Run the Model**
