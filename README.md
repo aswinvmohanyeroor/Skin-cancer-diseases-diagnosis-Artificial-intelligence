@@ -120,5 +120,16 @@ This study demonstrates the effectiveness of CNNs in diagnosing skin cancer from
 pip install imutils efficientnet
 ```
 
+2. **Prepare Dataset:** Download and extract HAM10000 dataset.
 
+3. **Run Training Script:**
+```bash
+python train.py --dataset /path/to/HAM10000
+```
+
+4. **Check Evaluation Metrics:**
+- Test accuracy and loss are printed in the console.
+- Training & Validation plots saved in the results directory.
+
+By following these steps, you can reproduce the results and validate the AI model’s performance.
 
