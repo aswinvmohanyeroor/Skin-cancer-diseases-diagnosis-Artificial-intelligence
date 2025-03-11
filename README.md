@@ -112,3 +112,13 @@ This study demonstrates the effectiveness of CNNs in diagnosing skin cancer from
 3. Rajpurkar et al., *Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning*. arXiv, 2017.
 
 ---
+
+## 10. User Guide
+### **Steps to Run the Project**
+1. **Install Dependencies:**
+```bash
+pip install imutils efficientnet
+```
+
+
+
